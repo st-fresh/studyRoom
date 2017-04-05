@@ -1,0 +1,28 @@
+{
+  "//1": "Testing ES6 in Glitch cuz.. mmhmm",
+  "//2": "repo-name-here-soon-maybe?",
+  "//3": "updating this file will download and update your packages",
+
+  "name": "ES6 play",
+  "version": "0.0.1",
+  "description": "Using ES6",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "engines": {
+    "node": "6.10.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/welcome-project"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
