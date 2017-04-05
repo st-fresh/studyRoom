@@ -29,6 +29,10 @@ Glitch Made by Fog Creek
 
 \ ゜o゜)ノ
 
+=======
+TypeScript studyRoom /// Could this compile in Glitch? 
+=========================
+
 ## VSCode Guide
 * Click <link> to download VSCode
 * (If you want to use `code .` in your CLI then too bad 
